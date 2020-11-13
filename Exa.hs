@@ -69,7 +69,7 @@ febin = do
     putStrLn "***********************************"
     putStrLn "Recuerda que Febrero solo tiene 28 días"
     putStrLn "Vuelve a teclear tu mes "
-    mes2
+    mes3
 mes3 = do 
     putStrLn "*******************************************"
     putStrLn "Ingresa tu mes de nacimiento"
@@ -95,4 +95,4 @@ m30in = do
     putStrLn "************************************************"
     putStrLn "Recuerda que existen meses que solo tienen 30 días y el mes que haz elegido no cuenta con 31 días"
     putStrLn "Vuelve a teclaear tu mes"
-    mes2
+    mes3
